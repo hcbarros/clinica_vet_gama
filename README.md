@@ -1,5 +1,5 @@
 
-Foi utilizado no projeto o servidor do Heroku que esta hospedando a aplicacao, e uma instancia EC2 da AWS que salva os dados no banco. 
+Foi utilizado no projeto o servidor do Heroku que está hospedando a aplicação, e uma instancia EC2 da AWS que salva os dados no banco. 
 
 Para instalar o projeto digite na linha de comando: mvn clean install
 
@@ -7,7 +7,7 @@ Para executar o projeto usando a linha de comando, deve-se digitar: mvn spring-b
 
 Para executar os testes: mvn test
 
-Obs: caso esteja usando em seu diretorio .m2 o settings.xml de um repositorio privado, entao baixe o apache maven (bin) no link https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.8.6/
+Obs: caso esteja usando em seu diretório .m2 o settings.xml de um repositório privado, então baixe o apache maven (bin) no link https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.8.6/
 ...em seguida, digite os comandos citados acima, acompanhados da flag que aponta para o arquivo settings.xml do apache maven. 
 Por exemplo: mvn clean install --settings caminho_do_settings.xml
 
